@@ -1,0 +1,12 @@
+{
+  "name": "@pnpm.e2e/prepare-script-fails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
